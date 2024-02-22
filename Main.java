@@ -1,4 +1,3 @@
-package javaAll;
 
 public class Main {
 	
