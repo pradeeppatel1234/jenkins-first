@@ -2,14 +2,12 @@
 public class Main {
 	
 	public static void main(String args[]) {
-System.out.println("this is first program");
-System.out.println("this is second program");
 
-System.out.println("this is second program");
+int a=4;
+int b=9;
+int c=9;
 
-System.out.println("this is second program");
-System.out.println("this is second program");
-System.out.println("this is second program");
-System.out.println("this is  program");
+
+System.out.println("this is for adddition"+(a+b+c));
 }
 }
